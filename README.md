@@ -1,4 +1,7 @@
 # sakshar
 
 TODO:
-add information
+
+project infromation 
+
+project functionality and feature
