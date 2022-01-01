@@ -1,7 +1,13 @@
 # sakshar
 
-TODO:
+TO DO:
+1. Will be working on discussion about project and documentaion review.
+2. Go for framework of the projects.
 
-project infromation 
+Project infromation:
 
-project functionality and feature
+This project is for eductional purpose, where it will be helping students in assignments and in entrance preparation classes of any field.
+
+
+Project functionality and feature:
+
